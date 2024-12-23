@@ -1,8 +1,10 @@
 
 #Overview
+
 This project integrates Pix2Pix and DeepDream models to perform real-time image transformations using your webcam feed. With an interactive GUI, users can adjust various parameters to customize the output, transforming live video into artistic renditions such as comics or Rembrandt-style paintings.
 
 #Features
+
 Real-Time Processing: Apply DeepDream and Pix2Pix transformations to live webcam feeds.
 Interactive GUI: Adjust parameters like step size, number of steps, brightness, and contrast using sliders.
 Multiple Styles: Switch between different transformation modes, including Face to Comics and Rembrandt styles.
@@ -11,6 +13,7 @@ Prerequisites
 Before setting up the project, ensure you have the following installed on your system:
 
 #Operating System: Windows, macOS, or Linux
+
 Python: Version 3.7 or higher
 Git: To clone the repository (optional but recommended)
 Webcam: For real-time video input
