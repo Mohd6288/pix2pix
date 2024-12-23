@@ -21,7 +21,9 @@ Installation
 Follow the steps below to set up the project on your local machine.
 
 1. Clone the Repository
+
 Clone this repository to your local machine using Git:
+
 ``
 git clone https://github.com/Mohd6288/pix2pix.git
 ``
@@ -34,20 +36,20 @@ https://drive.google.com/file/d/1Vo6ofQ3QyV4_9Zabg34mQ8VQCuWs4UZD/view?usp=shari
 pix2pix_rembrandt:
 https://drive.google.com/drive/folders/1b7P6-8IDKnjRWWIGCKalF7GwMoaZE4rK?usp=sharing
 
-The models shold be in the same directory thats you clone.
+**Note**: **The models shold be in the same directory thats you clone.**
 
 2. create python environment
-``
-python3 -m venv venv
-venv\Scripts\activate
-``
+   ``
+   python3 -m venv venv
+   venv\Scripts\activate
+   ``
 
 
-3.install requirements
+3. Install requirements Libs
 
-``
-pip install -r requirements.txt
-``
+   ``
+   pip install -r requirements.txt
+   ``
 
 4. Then you cloud run or other files 
 
